@@ -1,0 +1,4 @@
+public/
+.gh_pw
+*.ics
+!test/sample.ics
